@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Condicionales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{562E6204-D36B-4403-853A-AFAEDD1D6418}|Ejercicio8\\Ejercicio8.csproj|c:\\users\\hp\\source\\repos\\condicionales\\ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562E6204-D36B-4403-853A-AFAEDD1D6418}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD1E179-E8C4-4EF2-A76E-985C448EF549}|Ejercicio7\\Ejercicio7.csproj|c:\\users\\hp\\source\\repos\\condicionales\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD1E179-E8C4-4EF2-A76E-985C448EF549}|Ejercicio7\\Ejercicio7.csproj|solutionrelative:ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170D1CEF-3364-4138-A5AE-EECD5C6A93D8}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\hp\\source\\repos\\condicionales\\ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170D1CEF-3364-4138-A5AE-EECD5C6A93D8}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910D006B-FB86-473E-9529-89018E694221}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\hp\\source\\repos\\condicionales\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910D006B-FB86-473E-9529-89018E694221}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F62ED1-4DC5-4E58-BB84-430B2D43F19A}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\hp\\source\\repos\\condicionales\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F62ED1-4DC5-4E58-BB84-430B2D43F19A}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04A7EF-E9BE-4ED3-87B3-554451D67A4E}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\hp\\source\\repos\\condicionales\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A04A7EF-E9BE-4ED3-87B3-554451D67A4E}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789B3170-A81B-4222-B4F0-2E39049E2B19}|Condicionales\\Condicionales.csproj|c:\\users\\hp\\source\\repos\\condicionales\\condicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789B3170-A81B-4222-B4F0-2E39049E2B19}|Condicionales\\Condicionales.csproj|solutionrelative:condicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64378AE6-8950-4BBC-A091-C94EA6141A77}|Ejercicio2\\Ejercicio2.csproj|c:\\users\\hp\\source\\repos\\condicionales\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64378AE6-8950-4BBC-A091-C94EA6141A77}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio8\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio8\\Program.cs",
+              "RelativeToolTip": "Ejercicio8\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:10:19.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio7\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio7\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio7\\Program.cs",
+              "RelativeToolTip": "Ejercicio7\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA2wCwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:53:06.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio6\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio6\\Program.cs",
+              "RelativeToolTip": "Ejercicio6\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:48:49.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Ejercicio5\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA5wBkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:39:53.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "Ejercicio4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:38:03.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Ejercicio3\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA4wCAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:28:29.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Condicionales\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Ejercicio2\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIBCwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:18:35.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Condicionales\\Condicionales\\Program.cs",
+              "RelativeDocumentMoniker": "Condicionales\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Condicionales\\Condicionales\\Program.cs",
+              "RelativeToolTip": "Condicionales\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA5wBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:15:06.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
